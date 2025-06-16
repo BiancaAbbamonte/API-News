@@ -16,4 +16,5 @@ Este projeto automatiza o envio de um resumo diário das principais notícias de
 - [smtplib](https://docs.python.org/3/library/smtplib.html)
 - [email.mime](https://docs.python.org/3/library/email.mime.html)
 - [NewsAPI](https://newsapi.org/)
+- [schedule](https://schedule.readthedocs.io/en/stable/)
 - [PythonAnywhere](https://www.pythonanywhere.com/) (para automação gratuita)
